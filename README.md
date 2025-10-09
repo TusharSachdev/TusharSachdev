@@ -1,4 +1,4 @@
-*# 👋 Hi, I'm Tushar Sachdev
+👋 Hi, I'm Tushar Sachdev
 
 Welcome to my GitHub profile!
 
