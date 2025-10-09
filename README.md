@@ -11,12 +11,11 @@ I'm a **Statistical and Data Analyst & Machine Learning Enthusiast** with a pass
 
 ## 🛠️ Key Skills & Technologies
 
-- **Python** (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
-- **Machine Learning** (Regression, Classification, Feature Engineering)
-- **Power BI** (Dashboards, DAX, Data Modeling)
-- **Excel** (Advanced Formulas, Pivot Tables, VBA)
-- **Data Visualization** (Charts, Graphs, Trend Analysis)
-- **Traffic Forecasting** & **Customer Behavior Analysis**
+- **Python** (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)  
+- **Tableau** (Dashboards, Visual Analytics, Data Storytelling)  
+- **Excel** (Advanced Formulas, Pivot Tables, Data Cleaning)  
+- **Machine Learning** (Regression, Classification, Feature Engineering)  
+- **Data Visualization** (Charts, Trend Analysis, Visual Insights)
 
 ---
 
