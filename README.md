@@ -9,23 +9,6 @@ My work is deeply rooted in **data storytelling** — blending rigorous analysis
 
 ---
 
-## 🔍 What I Do
-
-- 📈 **Website Traffic Forecasting**  
-  Built models to forecast website traffic using historical logs and time series analysis to improve resource planning and campaign timing.
-
-- 🔁 **Customer Churn Prediction**  
-  Developed predictive models to identify high-risk customers using statistical techniques, machine learning algorithms, and behavioral data — directly aiding retention strategy.
-
-- 📊 **Dashboarding & Reporting**  
-  Created interactive dashboards using **Tableau** and **Python** to deliver insights to non-technical stakeholders, enabling data-informed business decisions.
-
-- 🤝 **Stakeholder Collaboration**  
-  Regularly translate complex model outputs into actionable insights for cross-functional teams — aligning data work with company strategy.
-
----
-
-## 🛠️ Skills & Tools
 
 ## 🔧 Tools & Technologies I Work With
 
