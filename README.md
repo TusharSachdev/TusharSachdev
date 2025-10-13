@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 As a **Statistical Programmer and Data Analyst** and I transform complex business data into actionable insights that drive strategic decision-making. With a strong foundation in **probability theory**, **applied statistics**, and **modern machine learning**, I currently work at **[Spopli.com](https://spopli.com)** in Dhule, Maharashtra, where I help the business forecast performance, understand customer behavior, and optimize internal operations.
 
-My work is deeply rooted in **data storytelling** — blending rigorous analysis with compelling visualizations to communicate findings to both technical and non-technical audiences.
+My work is deeply rooted in **data storytelling**, blending rigorous analysis with compelling visualizations to communicate findings to both technical and non-technical audiences.
 
 
 ---
