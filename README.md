@@ -29,7 +29,7 @@ My work is deeply rooted in **data storytelling** — blending rigorous analysis
 ## 📌 Featured Projects
 
 ### 🔹 [Client GAP & ROI Analysis with Odoo ERP](https://github.com/your-repo)
-- Analyzed over 50 projects across departments to understand ROI distribution, delay patterns, and client satisfaction.
+- Analyzed over 100 projects across departments to understand ROI distribution, delay patterns, and client satisfaction.
 - Built **ARIMA models** to forecast future ROI trends.
 - Developed **Bayesian regression** to quantify uncertainty in ROI predictions.
 - Performed **client clustering** to identify loyal, delayed, and high-value segments.
