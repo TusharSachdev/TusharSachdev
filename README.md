@@ -16,10 +16,6 @@ Each repository showcases **real-world scenarios**, designed to reflect the data
 
 ---
 
-📫 Feel free to explore, fork, or connect. 
-
----
-
 ## 🔧 Tools & Technologies I Work With
 
 Category | Tools & Libraries
