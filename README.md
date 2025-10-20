@@ -4,11 +4,27 @@ Welcome to my GitHub profile!
 
 As a **Statistical Programmer and Data Analyst** and I transform complex business data into actionable insights that drive strategic decision-making. With a strong foundation in **probability theory**, **applied statistics**, and **modern machine learning**, I currently work at **[Spopli.com](https://spopli.com)** in Dhule, Maharashtra, where I help the business forecast performance, understand customer behavior, and optimize internal operations.
 
-My work is deeply rooted in **data storytelling**, blending rigorous analysis with compelling visualizations to communicate findings to both technical and non-technical audiences.
+My work is deeply rooted in **data storytelling**, blending rigorous analysis with compelling visualizations to communicate findings to both technical and non-technical audiences. I have built a respository of portfolio demo to showcase focused projects which have been deemed as beneficial and fits in beautifically ERP pre- and post-implementations, in both client-facing and internal strategic roles
 
+## 👋 Welcome to My GitHub!
+
+I'm a **Statistical Programmer & Data Analyst** passionate about transforming raw data into **actionable business intelligence**. Currently, I work with [**Spopli Technologies**](https://spopli.com) — a Digital Transformation and Odoo ERP Services company — where I help bridge the gap between **data, decisions, and strategy**.
+
+### 🔍 What Makes My Work Valuable:
+With a strong foundation in **probability theory**, **applied statistics**, and **modern ML**, I create reusable, data-driven frameworks that help Spopli and its clients:
+- Audit and clean ERP data before it causes financial/reporting issues.
+- Optimize workflows by automating support, forecasting project overruns, and predicting client risk.
+- Drive business decisions with measurable ROI and GAP insights.
+- Enhance stakeholder communication using compelling data visualizations and clear storytelling.
+
+### 📂 Explore My Projects:
+Each repository showcases **real-world scenarios**, designed to reflect the data challenges that businesses face — especially during and after ERP (Odoo) implementations. Whether it's clustering clients by behavior, auditing invoices for payment delays, or modeling project risks, these tools aim to **streamline operations and elevate decision-making**.
 
 ---
 
+📫 Feel free to explore, fork, or connect. 
+
+---
 
 ## 🔧 Tools & Technologies I Work With
 
