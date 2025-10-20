@@ -11,9 +11,6 @@ With a strong foundation in **probability theory**, **applied statistics**, and 
 - Drive business decisions with measurable ROI and GAP insights.
 - Enhance stakeholder communication using compelling data visualizations and clear storytelling.
 
-### 📂 Explore My Projects:
-Each repository showcases **real-world scenarios**, designed to reflect the data challenges that businesses face, especially during and after ERP (Odoo) implementations. Whether it's clustering clients by behavior, auditing invoices for payment delays, or modeling project risks, these tools aim to **streamline operations and elevate decision-making**.
-
 ---
 
 ## 🔧 Tools & Technologies I Work With
@@ -30,6 +27,11 @@ Category | Tools & Libraries
 📁 Platforms | Google Colab, Jupyter Notebooks
 🗃️ Databases | SQL Server 2022, T-SQL, pyodbc
 🌍 ERP Systems | Odoo ERP – Data Integration & Analysis
+
+---
+
+### 📂 Explore My Projects:
+Each repository showcases **real-world scenarios**, designed to reflect the data challenges that businesses face, especially during and after ERP (Odoo) implementations. Whether it's clustering clients by behavior, auditing invoices for payment delays, or modeling project risks, these tools aim to **streamline operations and elevate decision-making**.
 
 ---
 
