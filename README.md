@@ -12,18 +12,6 @@ My work is deeply rooted in **data storytelling**, blending rigorous analysis wi
 
 ## 🔧 Tools & Technologies I Work With
 
-| Category                | Tools & Libraries |
-|-------------------------|------------------|
-| 🐍 Programming          | Python 3.9 – 3.12 |
-| 📊 Data Manipulation    | Pandas, NumPy |
-| 📈 Visualization        | Matplotlib, Seaborn, Plotly, Tableau |
-| 📐 Statistical Modeling | statsmodels (ARIMA, OLS, Logistic Regression), PyMC (Bayesian Modeling), ArviZ (Diagnostics)|
-| 🤖 Machine Learning     | scikit-learn (Random Forest, Logistic Regression), XGBoost (Gradient Boosting) |
-| 🔍 Time Series          | ARIMA, Decomposition |
-| 📦 Clustering & Segmentation | KMeans |
-| 📁 Platforms            | Google Colab, Jupyter Notebooks |
-| 🌍 ERP Systems          | Odoo ERP – Data Integration & Analysis |
-
 Category | Tools & Libraries
 --- | ---
 🐍 Programming | Python 3.9 – 3.12
