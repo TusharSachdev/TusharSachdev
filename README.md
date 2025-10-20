@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a **Statistical Programmer & Data Analyst** passionate about transforming raw data into **actionable business intelligence**. Currently, I work with [**Spopli Technologies**](https://spopli.com) — a Digital Transformation and Odoo ERP Services company — where I help bridge the gap between **data, decisions, and strategy**.
+I'm a **Statistical Programmer & Data Analyst** passionate about transforming raw data into **actionable business intelligence**. Currently, I work with [**Spopli Technologies**](https://spopli.com): a Digital Transformation and Odoo ERP Services company — where I help bridge the gap between **data, decisions, and strategy**.
 
 ### 🔍 What Makes My Work Valuable:
 With a strong foundation in **probability theory**, **applied statistics**, and **modern ML**, I create reusable, data-driven frameworks that help Spopli and its clients:
@@ -12,7 +12,7 @@ With a strong foundation in **probability theory**, **applied statistics**, and 
 - Enhance stakeholder communication using compelling data visualizations and clear storytelling.
 
 ### 📂 Explore My Projects:
-Each repository showcases **real-world scenarios**, designed to reflect the data challenges that businesses face — especially during and after ERP (Odoo) implementations. Whether it's clustering clients by behavior, auditing invoices for payment delays, or modeling project risks, these tools aim to **streamline operations and elevate decision-making**.
+Each repository showcases **real-world scenarios**, designed to reflect the data challenges that businesses face, especially during and after ERP (Odoo) implementations. Whether it's clustering clients by behavior, auditing invoices for payment delays, or modeling project risks, these tools aim to **streamline operations and elevate decision-making**.
 
 ---
 
