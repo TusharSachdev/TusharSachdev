@@ -14,7 +14,7 @@ My work is deeply rooted in **data storytelling**, blending rigorous analysis wi
 
 Category | Tools & Libraries
 --- | ---
-🐍 Programming | Python 3.9 – 3.12
+🐍 Programming | Python 3.9 – 3.14
 📊 Data Manipulation | Pandas, NumPy
 📈 Visualization | Matplotlib, Seaborn, Plotly, Tableau
 📐 Statistical Modeling | statsmodels (ARIMA, OLS, Logistic Regression), PyMC (Bayesian Modeling), ArviZ (Diagnostics)
