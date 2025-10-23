@@ -22,7 +22,7 @@ With a strong foundation in **probability theory**, **applied statistics**, and 
 | 📈 Visualization             | Matplotlib, Seaborn, Plotly, Tableau                                                              |
 | 📐 Statistical Modeling       | statsmodels (ARIMA, OLS, Logistic Regression), PyMC (Bayesian Modeling), ArviZ (Diagnostics)       |
 | 🤖 Machine Learning           | scikit-learn (Random Forest, Logistic Regression), XGBoost (Gradient Boosting)                     |
-| 🧠 Deep Learning              | TensorFlow, Keras, PyTorch                                                                         |
+| 🧠 Deep Learning              | TensorFlow, Keras                                                                        |
 | 🔍 Time Series                | ARIMA, Decomposition                                                                               |
 | 📦 Clustering & Segmentation  | KMeans                                                                                            |
 | 📁 Platforms                 | Google Colab, Jupyter Notebooks                                                                    |
