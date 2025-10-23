@@ -15,18 +15,19 @@ With a strong foundation in **probability theory**, **applied statistics**, and 
 
 ## 🔧 Tools & Technologies I Work With
 
-Category | Tools & Libraries
---- | ---
-🐍 Programming | Python 3.9 – 3.14
-📊 Data Manipulation | Pandas, NumPy
-📈 Visualization | Matplotlib, Seaborn, Plotly, Tableau
-📐 Statistical Modeling | statsmodels (ARIMA, OLS, Logistic Regression), PyMC (Bayesian Modeling), ArviZ (Diagnostics)
-🤖 Machine Learning | scikit-learn (Random Forest, Logistic Regression), XGBoost (Gradient Boosting)
-🔍 Time Series | ARIMA, Decomposition
-📦 Clustering & Segmentation | KMeans
-📁 Platforms | Google Colab, Jupyter Notebooks
-🗃️ Databases | SQL Server 2022, T-SQL, pyodbc
-🌍 ERP Systems | Odoo ERP – Data Integration & Analysis
+| Category                     | Tools & Libraries                                                                                   |
+|------------------------------|---------------------------------------------------------------------------------------------------|
+| 🐍 Programming               | Python 3.9 – 3.14                                                                                  |
+| 📊 Data Manipulation          | Pandas, NumPy                                                                                      |
+| 📈 Visualization             | Matplotlib, Seaborn, Plotly, Tableau                                                              |
+| 📐 Statistical Modeling       | statsmodels (ARIMA, OLS, Logistic Regression), PyMC (Bayesian Modeling), ArviZ (Diagnostics)       |
+| 🤖 Machine Learning           | scikit-learn (Random Forest, Logistic Regression), XGBoost (Gradient Boosting)                     |
+| 🧠 Deep Learning              | TensorFlow, Keras, PyTorch                                                                         |
+| 🔍 Time Series                | ARIMA, Decomposition                                                                               |
+| 📦 Clustering & Segmentation  | KMeans                                                                                            |
+| 📁 Platforms                 | Google Colab, Jupyter Notebooks                                                                    |
+| 🗃️ Databases                 | SQL Server 2022, T-SQL, pyodbc                                                                     |
+| 🌍 ERP Systems                | Odoo ERP – Data Integration & Analysis                                                            |
 
 ---
 
