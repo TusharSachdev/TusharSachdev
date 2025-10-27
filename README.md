@@ -25,7 +25,6 @@ With a strong foundation in **probability theory**, **applied statistics**, and 
 | 🧠 Deep Learning              | TensorFlow, Keras, PyTorch                                                                        |
 | 🔍 Time Series                | ARIMA, Decomposition                                                                               |
 | 📦 Clustering & Segmentation  | KMeans                                                                                            |
-| 📁 Platforms                 | Google Colab, Jupyter Notebooks                                                                    |
 | 🗃️ Databases                 | SQL Server 2022, T-SQL, pyodbc                                                                     |
 | 🌍 ERP Systems                | Odoo ERP – Data Integration & Analysis                                                            |
 
