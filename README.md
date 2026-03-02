@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Tushar Sachdev
+# Hi, I'm Tushar Sachdev
 
 Welcome to my GitHub profile!
 
-I'm a **ERP Analyst and Data Science Specialist** passionate about transforming raw data into **business decisions**. Currently, I work with [**Spopli Technologies**](https://spopli.com): a Digital Transformation and Odoo ERP Services company, where I help bridge the gap between **data, decisions, and strategy**.
+I'm a **ERP Analyst and Data Science Specialist** passionate about transforming data into **business decisions**. Currently, I work with [**Spopli Technologies**](https://spopli.com): a Digital Transformation and Odoo ERP Services company, where I help bridge the gap between **data, decisions, and strategy**.
 
 ### 🔍 What Makes My Work Valuable:
 With a strong foundation in **probability theory**, **applied statistics**, and **modern ML**, I create reusable, data-driven frameworks that help Spopli and its clients:
